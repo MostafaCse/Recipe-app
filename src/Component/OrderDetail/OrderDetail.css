@@ -1,0 +1,38 @@
+.main-container{
+    background-color: lightcoral;
+    display: flex;
+    min-height: 100vh;
+
+}
+
+.right-item{
+  width: 50%;
+  
+}
+.button-highlight{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    color:black;
+    border: none;
+    border-radius: 5px;
+}
+.left-item{
+width: 50%;
+padding-left: 20%;
+padding-top: 10%;
+}
+.input-highlight{
+  width: 300px;
+  height: 20px;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.textarea-highlight{
+  margin-top: 10px;
+  border: none;
+  border-radius: 10px;
+  width: 300px;
+  height: 40px;
+  text-align: center;
+}

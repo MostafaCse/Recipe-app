@@ -1,0 +1,18 @@
+.order-highlight{
+ background-color: lightcoral;
+    text-align: center;
+    justify-items: center;
+    height: 98vh;
+    padding-top: 10px;
+}
+.button-highlight{
+   background-color: red;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
