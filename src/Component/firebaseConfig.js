@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCRDdwxG_-NeG3-Ss-7URMUFq-vLH9Kfpo",
-    authDomain: "recipe-app-12f67.firebaseapp.com",
-    projectId: "recipe-app-12f67",
-    storageBucket: "recipe-app-12f67.appspot.com",
-    messagingSenderId: "889802526066",
-    appId: "1:889802526066:web:738f17f50ae00e343121eb"
+  apiKey: "AIzaSyAOUYQuJzhGn6mEnba__fzeuNCDf9pi_vo",
+  authDomain: "recipe-app-8151a.firebaseapp.com",
+  projectId: "recipe-app-8151a",
+  storageBucket: "recipe-app-8151a.appspot.com",
+  messagingSenderId: "606398685326",
+  appId: "1:606398685326:web:e4e34e0ee7151ff137e9df"
   };
   export default firebaseConfig;
